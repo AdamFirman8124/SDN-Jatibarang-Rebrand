@@ -1,0 +1,11 @@
+id,NIP,nama,jabatan,pekerjaan,created_at,updated_at
+1,19800101,"Siti Aminah, S.Pd.",Guru,Guru Kelas 1,2024-01-01 00:00:00,2024-01-01 00:00:00
+2,19800102,"Budi Santoso, S.Pd.",Guru,Guru Kelas 2,2024-01-01 00:00:00,2024-01-01 00:00:00
+3,19800103,"Dewi Lestari, S.Pd.",Guru,Guru Kelas 3,2024-01-01 00:00:00,2024-01-01 00:00:00
+4,19800104,"Rudi Hermawan, S.Pd.",Guru,Guru Kelas 4,2024-01-01 00:00:00,2024-01-01 00:00:00
+5,19800105,"Ani Wijayanti, S.Pd.",Guru,Guru Kelas 5,2024-01-01 00:00:00,2024-01-01 00:00:00
+6,19800106,"Eko Prasetyo, S.Pd.",Guru,Guru Kelas 6,2024-01-01 00:00:00,2024-01-01 00:00:00
+7,19800201,"Staff 1",Staff,Staff Tata Usaha,2024-01-01 00:00:00,2024-01-01 00:00:00
+8,19800202,"Staff 2",Staff,Staff Perpustakaan,2024-01-01 00:00:00,2024-01-01 00:00:00
+9,19800203,"Staff 3",Staff,Staff Kebersihan,2024-01-01 00:00:00,2024-01-01 00:00:00
+10,010101010,"H. Ahmad Supriyadi, M.Pd.",Kepala Sekolah,Kepala Sekolah,2024-01-01 00:00:00,2024-01-01 00:00:00
